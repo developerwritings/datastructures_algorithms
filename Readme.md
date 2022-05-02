@@ -7,3 +7,10 @@ There are two type of data structures
    Stack
    Queues 
    Linked List
+
+
+References:
+
+https://www.geeksforgeeks.org/data-structures
+
+
